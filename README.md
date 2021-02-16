@@ -1,4 +1,4 @@
-# FixJeIphone Woocommerce documentatie
+# FJI Woocommerce documentatie
 
 ## Onderwerpen
 
