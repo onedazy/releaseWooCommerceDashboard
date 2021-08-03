@@ -16,10 +16,10 @@
 Het is belangrijk dat je de Zebra printer juist instelt. Anders doet deze het niet.
 Begin door Zebra Browser Print te installeren.
 ## Download zebra driver for windows.
-https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/ZebraBrowserPrintSetup-1.2.1.279.exe
+https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/zebra-browser-print-windows-v131445.zip
 
 ## Download zebra driver for OSX
-https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/BrowserPrint-1.2.1.279.dmg
+https://www.zebra.com/content/dam/zebra_new_ia/en-us/solutions-verticals/product/Software/Printer%20Software/Link-OS/browser-print/zebra-browser-print-mac-v131445.zip
 
 Nadat je dat hebt gedaan start browser print op en klik op het icoontje (rechter muisknop) bovenin je scherm (Mac) of onderin bij de open programma's (Windows). klik dan op settings/instellingen
 
